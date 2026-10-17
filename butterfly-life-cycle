@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Butterfly Life Cycle</title>
+<style>
+  body{margin:0;padding:16px;background:#e9fbdc;font-family:system-ui,sans-serif;}
+  iframe{width:100%;aspect-ratio:16/9;height:auto;border:0;border-radius:12px;}
+  a{display:inline-block;margin-bottom:12px;}
+</style>
+</head>
+<body>
+  <a href="index.html">← Kembali</a>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQOxt6Dgkd6L0K1VI7jHrfti689fU2tmUV0SzwxCJcL5sv6s79LyJBeBN1I_euX0A/pubembed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></ifram
+</body>
+</html>
